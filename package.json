@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/MikhaD/wordle/issues"
   },
-  "homepage": "https://github.com/sealedhermit/wordle-plus#readme",
+  "homepage": "https://github.com/sealedhermit/wordle-plus/",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^21.0.1",
     "@rollup/plugin-node-resolve": "^13.1.3",
